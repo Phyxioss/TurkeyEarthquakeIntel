@@ -2,7 +2,7 @@ DOMAIN/WEBSITE|STATUS|IP ADDRESS
 deprem112.com.tr|Tracking|-
 deprem112.com|Tracking|62.108.55.208
 ankaradepremyardim.com|Tracking|77.245.159.45
-deprem.fun|Tracking|-
+deprem.fun|Tracking|185.126.219.150
 depremzedeara.com|Tracking|199.36.158.100
 depremkayiplari.com|Tracking|159.253.38.71
 depremproje.com|Tracking|172.67.174.201, 104.21.67.127
